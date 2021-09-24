@@ -1,0 +1,8 @@
+{"Is grass yellow?", false},
+{"Is boffin magnetic the best toy ever?", true},
+{"Universe is growing at the speed of light", true},
+{"Pluto is not a planet", true},
+{"I will visit 3dsimo.com and i will buy multipro", true},
+{"My mom is the best mom for buying me boffin magnetic", true},
+{"Fill out the blank: In the winter it s__ws", false},
+{"Magnetism is alien technology", false}},
